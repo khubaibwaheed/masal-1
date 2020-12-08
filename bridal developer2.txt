@@ -1,0 +1,17 @@
+
+Client: good morning. we are facing issues with the payment methods on our website.
+me:good morning. thank you for approaching us sir how may we help you?
+Client: dropsite of payment options isnt showing the options
+me: sir can we get your website links and URLs along with the Cpanel. we will look into the matter
+Client: https://masal.com/ and email-aadatsemajboor@gmail.com,password-452158 is for the Cpanel.
+        make it as quick as possible the site is occupied with pending orders
+Me: sure. we will reach out to you as quick as possible
+
+me: sir we inquired your problem and our team is already working on the solution
+client: thank you. i want you to take this as an emergency project
+me: sir we will make sure this project this is our top priority project 
+client: how much will this cost ?
+me: sir we can make this work in about a day and since we have a busy schedule 
+    we are charging $10
+Client: okay i am willing to pay $10
+me: send us the offer so that we can accept it. 
